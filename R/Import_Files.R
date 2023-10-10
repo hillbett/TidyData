@@ -9,8 +9,7 @@
 #' @export
 #'
 #' @examples
-#' clean_ELISA(path = "C:/Users/hkiprono/Desktop/R_packages/test_data_TidyElisa",pattern = c(".xls",".xlsx"))
-#'
+#' Import(path = "C:/Users/hkiprono/Desktop/R_packages/test_data_TidyElisa",pattern = c(".xls",".xlsx"))
 #'
 
 Import <- function(path, pattern = c(".xls", ".xlsx", ".csv")) {
