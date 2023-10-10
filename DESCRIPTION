@@ -1,10 +1,10 @@
-Package: TidyElisa
-Title: Tidy ELISA Plate Plan
+Package: TidyData
+Title: Cleaning Clinical Trial Datasets
 Version: 0.1.0
 Authors@R: 
     person("Hillary", "Kiprono",email = "hillbett08@gmail.com", role = c("aut","cre")
     )
-Description: Imports invidividual plate plans, cleans the files and returns a tidy dataset.
+Description: A collection of functions that cleans the clinical trial dataset
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
